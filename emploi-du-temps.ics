@@ -188,4 +188,44 @@ EXDATE;TZID=Europe/Dublin:20260923T100000
 EXDATE;TZID=Europe/Dublin:20261007T100000
 EXDATE;TZID=Europe/Dublin:20261021T100000
 END:VEVENT
+BEGIN:VEVENT
+UID:e3756d0c921eb970f79ec88d@main-guacamole.github.io
+DTSTAMP:20261124T002800Z
+DTSTART;TZID=Europe/Dublin:20261208T140000
+DTEND;TZID=Europe/Dublin:20261208T160000
+SUMMARY:EXAMEN – EEG1011 Engineering Mathematics IV
+LOCATION:GLA.S143
+URL:https://maps.apple.com/?q=GLA.S143%2C%20Dublin%20City%20University%2C%20Glasnevin%20Campus
+DESCRIPTION:Examen sur campus (2h) – EEG1011-01
+END:VEVENT
+BEGIN:VEVENT
+UID:5bf935faaf1c17d228b394cc@main-guacamole.github.io
+DTSTAMP:20261124T002800Z
+DTSTART;TZID=Europe/Dublin:20261211T093000
+DTEND;TZID=Europe/Dublin:20261211T113000
+SUMMARY:EXAMEN – EEN1022 Digital & Analogue Electronics I
+LOCATION:GLA.Sports Club Main Hall
+URL:https://maps.apple.com/?q=Sports%20Club%20Main%20Hall%2C%20Dublin%20City%20University%2C%20Glasnevin%20Campus
+DESCRIPTION:Examen sur campus (2h) – EEN1022-01
+END:VEVENT
+BEGIN:VEVENT
+UID:840fd344ab77ac364fdaa2cf@main-guacamole.github.io
+DTSTAMP:20261124T002800Z
+DTSTART;TZID=Europe/Dublin:20261214T093000
+DTEND;TZID=Europe/Dublin:20261214T113000
+SUMMARY:EXAMEN – EEN1018 Circuits Analysis Techniques
+LOCATION:SPC.B103 & B108 (Auditorium)
+URL:https://maps.apple.com/?q=B103%2C%20Dublin%20City%20University%2C%20St%20Patrick%27s%20Campus
+DESCRIPTION:Examen sur campus (2h) – EEN1018-01
+END:VEVENT
+BEGIN:VEVENT
+UID:5673a6d69b60f6c81bb3c0e9@main-guacamole.github.io
+DTSTAMP:20261124T002800Z
+DTSTART;TZID=Europe/Dublin:20261217T093000
+DTEND;TZID=Europe/Dublin:20261217T113000
+SUMMARY:EXAMEN – EEN1085 Data Analysis and Machine Learning
+LOCATION:GLA.Sports Club Main Hall
+URL:https://maps.apple.com/?q=Sports%20Club%20Main%20Hall%2C%20Dublin%20City%20University%2C%20Glasnevin%20Campus
+DESCRIPTION:Examen sur campus (2h) – EEN1085-01
+END:VEVENT
 END:VCALENDAR
